@@ -1,0 +1,7 @@
+node_modules
+README.js
+preload.js
+package.json
+package-lock.json
+mysite/mysite/settings.py
+mysite/mysite/__pycache__
